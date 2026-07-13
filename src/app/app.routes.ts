@@ -13,14 +13,14 @@ export const routes: Routes = [
    
       
       {
-        path: 'obesity/gayatri',
+        path: 'obesity/disease-biology-I',
         loadComponent: () =>
           import('./features/disease-biology/gayatri/gayatri.component').then(
             (m) => m.GayatriComponent,
           ),
       },
       {
-        path: 'obesity/muskan',
+        path: 'obesity/disease-biology-II',
         loadComponent: () =>
           import('./features/disease-biology/muskan/muskan.component').then(
             (m) => m.MuskanComponent,

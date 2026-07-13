@@ -32,15 +32,15 @@ export class SidebarComponent {
     },
     {
       label: 'Disease Biology - I',
-      route: '/obesity/gayatri',
+      route: '/obesity/disease-biology-I',
       icon: 'M12 8c-2.2 0-4 1.8-4 4s1.8 4 4 4 4-1.8 4-4-1.8-4-4-4zm0-6a10 10 0 100 20 10 10 0 000-20z',
       color: 'text-orange-600',
       bg: 'bg-orange-100',
     },
     {
       label: 'Disease Biology - II',
-      route: '/obesity/muskan',
-      icon: 'M12 8c-2.2 0-4 1.8-4 4s1.8 4 4 4 4-1.8 4-4-4-1.8-4-4zm0-6a10 10 0 100 20 10 10 0 000-20z',
+      route: '/obesity/disease-biology-II',
+      icon: 'M12 8c-2.2 0-4 1.8-4 4s1.8 4 4 4 4-1.8 4-4-1.8-4-4-4zm0-6a10 10 0 100 20 10 10 0 000-20z',
       color: 'text-fuchsia-600',
       bg: 'bg-fuchsia-100',
     },
